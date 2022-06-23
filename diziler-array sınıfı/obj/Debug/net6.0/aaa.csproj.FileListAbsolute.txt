@@ -1,0 +1,20 @@
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\aaa\obj\Debug\net6.0\aaa.csproj.AssemblyReference.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\aaa\obj\Debug\net6.0\aaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\aaa\obj\Debug\net6.0\aaa.AssemblyInfoInputs.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\aaa\obj\Debug\net6.0\aaa.AssemblyInfo.cs
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\aaa\obj\Debug\net6.0\aaa.csproj.CoreCompileInputs.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\bin\Debug\net6.0\aaa.exe
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\bin\Debug\net6.0\aaa.deps.json
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\bin\Debug\net6.0\aaa.runtimeconfig.json
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\bin\Debug\net6.0\aaa.dll
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\bin\Debug\net6.0\aaa.pdb
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\obj\Debug\net6.0\aaa.csproj.AssemblyReference.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\obj\Debug\net6.0\aaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\obj\Debug\net6.0\aaa.AssemblyInfoInputs.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\obj\Debug\net6.0\aaa.AssemblyInfo.cs
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\obj\Debug\net6.0\aaa.csproj.CoreCompileInputs.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\obj\Debug\net6.0\aaa.dll
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\obj\Debug\net6.0\refint\aaa.dll
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\obj\Debug\net6.0\aaa.pdb
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\obj\Debug\net6.0\aaa.genruntimeconfig.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\diziler-array sınıfı\obj\Debug\net6.0\ref\aaa.dll
